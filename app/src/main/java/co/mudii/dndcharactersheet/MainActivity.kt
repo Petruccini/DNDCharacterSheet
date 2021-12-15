@@ -21,6 +21,10 @@ class MainActivity : AppCompatActivity() {
             binding.textViewDiceResult.text = "Roll a D20!\nLast result: $result"
 
             // comentario tonto
+            // holi
+
+
+
         }
 
     }
