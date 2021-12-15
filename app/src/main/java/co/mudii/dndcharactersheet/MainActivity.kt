@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "You rolled a: $result", Toast.LENGTH_LONG).show()
 
             binding.textViewDiceResult.text = "Roll a D20!\nLast result: $result"
+
+            // comentario tonto
         }
 
     }
