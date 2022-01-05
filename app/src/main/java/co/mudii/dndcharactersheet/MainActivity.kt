@@ -20,6 +20,12 @@ class MainActivity : AppCompatActivity() {
 
             binding.textViewDiceResult.text = "Roll a D20!\nLast result: $result"
 
+            binding.textViewDiceResult
+
+            binding.button.setOnClickListener {
+
+            }
+
             // comentario tonto
             // holi
 
